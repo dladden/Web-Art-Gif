@@ -1,0 +1,57 @@
+html {
+      min-height: 100%;
+      overflow: hidden;
+}/*html end*/
+
+
+    .page {
+        
+        top:10px;
+        bottom:10px;
+        left:0;
+        right:0;
+        position: fixed;
+        position: relative;
+        overflow-y:auto
+        padding: 0;
+        margin: auto;
+        width: 600px;
+        height: 825px;
+        border:2px solid #fff;
+        content:"";
+        position:absolute;
+        z-index:-1;
+        box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+        -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+        box-shadow:0 0 20px rgba(0,0,0,0.8);
+        
+        
+    }
+  
+.human1 {
+  position: absolute;
+  left: 0px;
+  top: 692px;
+}
+
+.scale1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.ouroboros1 {
+  position: absolute;
+  left: 468px;
+  top: 0px;
+}
+
+.knot1 {
+  position: absolute;
+  left: 468px;
+  top: 692px;
+}
